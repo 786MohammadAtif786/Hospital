@@ -1,0 +1,70 @@
+#header{
+    background-color:rgb(206, 152, 152);
+    color:tomato;
+}
+/* #mynavbar{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+#mynavbar li{
+    display: inline-block;
+}
+#mynavbar li a{
+    color: #fff;
+    padding: 60px 10px;
+        display: block;
+        text-decoration: none;
+        
+} */
+#mynavbar li a:hover{
+    background-color: gray;
+    padding: 10px 15px;
+}
+#searchbar{
+    background-color: tomato;
+}
+#abc{
+    background-color: lightgray;
+    color: teal;
+    text-align: center;
+}
+#cancer img{
+    width: 650px;
+    height: 430px;
+}
+#asc{
+    width: 300px;
+    background-color: teal;
+}
+#asc:hover{
+    background-color: tomato;
+}
+#our-card img{
+    height:300px;
+}
+h1 {
+   background-color: lightgrey; 
+   text-align: center;
+}
+
+.card-text{
+    text-align: justify;
+}
+.bootstrap-iso{
+background-color: tomato;
+}
+.abc{
+    text-align: center;
+background-color: rgb(124, 124, 175);
+color: white
+}
+/* .col-md-1{
+    background-color: rgb(124, 124, 175);   
+    color: white
+
+} */
+
+.abc a{
+    color: wheat;
+}
